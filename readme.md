@@ -1,1 +1,2 @@
 # Smash Stack
+## The Begining
