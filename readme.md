@@ -1,1 +1,1 @@
-# Smash Stack Starting Soon!
+# Smash Stack Starting Very Soon!
