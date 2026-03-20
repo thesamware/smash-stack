@@ -1,3 +1,3 @@
 ```bash
-# Smash Stack Starting Very Soon!
+Smash Stack Starting Very Soon!
 ```
